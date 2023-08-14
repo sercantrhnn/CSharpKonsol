@@ -1,0 +1,16 @@
+C:\Users\SERCAN\Desktop\Yeni klasör\CSharpKonsol\bin\Debug\net5.0\CSharpKonsol.exe
+C:\Users\SERCAN\Desktop\Yeni klasör\CSharpKonsol\bin\Debug\net5.0\CSharpKonsol.deps.json
+C:\Users\SERCAN\Desktop\Yeni klasör\CSharpKonsol\bin\Debug\net5.0\CSharpKonsol.runtimeconfig.json
+C:\Users\SERCAN\Desktop\Yeni klasör\CSharpKonsol\bin\Debug\net5.0\CSharpKonsol.runtimeconfig.dev.json
+C:\Users\SERCAN\Desktop\Yeni klasör\CSharpKonsol\bin\Debug\net5.0\CSharpKonsol.dll
+C:\Users\SERCAN\Desktop\Yeni klasör\CSharpKonsol\bin\Debug\net5.0\ref\CSharpKonsol.dll
+C:\Users\SERCAN\Desktop\Yeni klasör\CSharpKonsol\bin\Debug\net5.0\CSharpKonsol.pdb
+C:\Users\SERCAN\Desktop\Yeni klasör\CSharpKonsol\obj\Debug\net5.0\CSharpKonsol.csproj.AssemblyReference.cache
+C:\Users\SERCAN\Desktop\Yeni klasör\CSharpKonsol\obj\Debug\net5.0\CSharpKonsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERCAN\Desktop\Yeni klasör\CSharpKonsol\obj\Debug\net5.0\CSharpKonsol.AssemblyInfoInputs.cache
+C:\Users\SERCAN\Desktop\Yeni klasör\CSharpKonsol\obj\Debug\net5.0\CSharpKonsol.AssemblyInfo.cs
+C:\Users\SERCAN\Desktop\Yeni klasör\CSharpKonsol\obj\Debug\net5.0\CSharpKonsol.csproj.CoreCompileInputs.cache
+C:\Users\SERCAN\Desktop\Yeni klasör\CSharpKonsol\obj\Debug\net5.0\CSharpKonsol.dll
+C:\Users\SERCAN\Desktop\Yeni klasör\CSharpKonsol\obj\Debug\net5.0\ref\CSharpKonsol.dll
+C:\Users\SERCAN\Desktop\Yeni klasör\CSharpKonsol\obj\Debug\net5.0\CSharpKonsol.pdb
+C:\Users\SERCAN\Desktop\Yeni klasör\CSharpKonsol\obj\Debug\net5.0\CSharpKonsol.genruntimeconfig.cache
